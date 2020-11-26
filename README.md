@@ -1,0 +1,2 @@
+# PepsiBot
+beta discord bot
